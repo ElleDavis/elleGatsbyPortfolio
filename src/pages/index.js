@@ -38,9 +38,9 @@ const IndexPage = () => (
       <div className="container">
         <div className="row">
           <div className="col-lg-8 mx-auto">
-            <h2 className="text-white mb-4">Built with Bootstrap 4</h2>
+            <h2 className="text-white mb-4">Full-Stack Developer</h2>
             <p className="text-white-50">
-            I am a Full-Stack Software Engineer, proficient in building web applications with the MERN stack, Javascript frameworks, libraries, and databases. 
+            I am a Software Engineer, transitioning from the Education and Non-Profit Management Sector. I am proficient in building web applications with the MERN stack, Javascript frameworks, libraries, and databases. 
             I aim to develop responsive and accessible applications that are performant, scalable, and thoughtfully designed for maintainability.
             Check out my recent projects
               <a href="https://github.com/ElleDavis"> on github !
@@ -61,12 +61,12 @@ const IndexPage = () => (
           <div className="col-xl-4 col-lg-5">
             <div className="featured-text text-center text-lg-left">
               <h4>
-              <a href="https://github.com/ElleDavis"> 
-              Front End Project
+              <a href="https://github.com/ElleDavis/FullStackAcademy_react"> 
+              FullStack Academy Landing
               </a>
               </h4>
               <p className="text-black-50 mb-0">
-                the project uses this tech , created fo rthis use.
+              This Full-Stack project uses React, Bootstrap, Node, Express etc. to allow staff at FullStack Academy to Register for an account, Login be authenticated and authorized to access organization information.
               </p>
             </div>
           </div>
@@ -81,12 +81,11 @@ const IndexPage = () => (
               <div className="d-flex h-100">
                 <div className="project-text w-100 my-auto text-center text-lg-left">
                   <h4 className="text-white">
-                  <a href="https://github.com/ElleDavis"> BackEnd Project
+                  <a href="https://github.com/ElleDavis/TeacherDirectory"> Teacher Directory Database
                   </a>
                   </h4>
                   <p className="mb-0 text-white-50">
-                    An example of where you can put an image of a project, or
-                    anything else, along with a description.
+                    This Back-end project provides Educational Institutions a structure to collect and store organizational information such as private staff and student data and currriculum content. This databases uses MongoDB,Postman, Json Web Tokens, SALT etc.
                   </p>
                   <hr className="d-none d-lg-block mb-0 ml-0" />
                 </div>
@@ -104,13 +103,11 @@ const IndexPage = () => (
               <div className="d-flex h-100">
                 <div className="project-text w-100 my-auto text-center text-lg-right">
                   <h4 className="text-white">
-                  <a href="https://github.com/ElleDavis"> Full Stack Project
+                  <a href="https://github.com/ElleDavis/Redlight_Greenlight"> Red Light, Green Light
                   </a>
                   </h4>
                   <p className="mb-0 text-white-50">
-                    Another example of a project with its respective
-                    description. These sections work well responsively as well,
-                    try this theme on a small screen!
+                    This Front-end project use vanilla Javascript, html and css. It provides the User with randomized color buttons. The user is only to click the green buttons. For each green button the user clicks they will recieve a point, for each red button selected the user will recieve a speeading ticket. After recieving 3 speeding tickets the user loses the game, after 3 points the user will win !
                   </p>
                   <hr className="d-none d-lg-block mb-0 mr-0" />
                 </div>
